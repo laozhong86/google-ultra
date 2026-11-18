@@ -122,6 +122,9 @@ python3 ultra0.py accounts.txt --no-switch
 
 **收银台没弹出来。** 重跑一次。连续两次都不弹，检查一下设备的网络：`settings get global http_proxy`，不是 `null` 就清掉；Clash 这类 VPN 会劫持 DNS，也会让 Play 连不上。
 
+**开通后登录 Antigravity / Ultra 卡在扫码或短信验证。** verify 页要求扫码发短信，却发不出去或页面无反应时，对照这篇社区排查与绕过说明：  
+https://x.com/runze26/status/2121876604284547560
+
 ## 一些参数
 
 ```bash
