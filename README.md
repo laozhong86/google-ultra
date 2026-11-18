@@ -46,7 +46,8 @@ adb 用 Android SDK 里的 platform-tools。装好后 `adb devices` 能看到手
 
 跳到 Google 的结算页之后，确认金额是 0，点订阅即可。
 
-不想下仓库的话，也可以直接访问在线版：https://gylive.github.io/google-ultra/web/
+不想下仓库的话，也可以直接访问本 fork 在线版（已改默认直达领取链接，减轻「打开失败」）：https://laozhong86.github.io/google-ultra/web/  
+上游原版：https://gylive.github.io/google-ultra/web/
 
 ### 脚本版怎么用
 
@@ -180,7 +181,8 @@ ultra0.py           脚本版完整实现（批量、选档、切号）
 assets/             群二维码
 ```
 
-在线版地址：https://gylive.github.io/google-ultra/web/
+本 fork 在线版：https://laozhong86.github.io/google-ultra/web/  
+上游在线版：https://gylive.github.io/google-ultra/web/
 
 ## 免责声明与使用条款
 
