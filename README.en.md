@@ -99,6 +99,9 @@ Miss either one and checkout says "not eligible". And once a trial has been init
 
 **Nothing happens at checkout.** Run it again. If it repeats, check for a proxy or VPN on the phone: `adb shell settings get global http_proxy` should be `null`, and Clash-style VPNs hijack DNS in a way Play dislikes.
 
+**Stuck on Antigravity / Ultra verify (QR or SMS) after subscribe.** If the verify page asks you to scan and send an SMS but the SMS fails or the page never updates, see this community walkthrough:  
+https://x.com/runze26/status/2121876604284547560
+
 **No root.** The script injects into another app's process; root is required.
 
 ## Repo layout
