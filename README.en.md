@@ -23,9 +23,11 @@ There is also a 30 TB tier (20x). Its offers exist too, but Play re-checks eligi
 
 ## Option A — the web page
 
-Open this, or download `web/index.html` and double-click it:
+Open this fork (direct acquire link default), or download `web/index.html` and double-click it:
 
-https://gylive.github.io/google-ultra/web/
+https://laozhong86.github.io/google-ultra/web/
+
+Upstream online page: https://gylive.github.io/google-ultra/web/
 
 1. **Sign in** with the Google account you want the trial on
 2. **Add a card** — $1 on it is enough, nothing is charged during the trial
@@ -33,7 +35,8 @@ https://gylive.github.io/google-ultra/web/
 
 That's it. No install, no root, no cable.
 
-English page: https://gylive.github.io/google-ultra/web/en.html
+English page (this fork): https://laozhong86.github.io/google-ultra/web/en.html  
+Upstream English: https://gylive.github.io/google-ultra/web/en.html
 
 ## Option B — the script
 
